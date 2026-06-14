@@ -1,0 +1,24 @@
+{
+  "name": "Monitoreo Ambiental IoT",
+  "short_name": "AmbientalIoT",
+  "description": "Dashboard de monitoreo ambiental en tiempo real con ESP8266",
+  "start_url": "/monitoreo-ambiental/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#00d2ff",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/monitoreo-ambiental/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/monitoreo-ambiental/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
